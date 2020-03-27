@@ -1,0 +1,5 @@
+dispatch:
+  - url: "tictactoe.hrmyd.me/*"
+    service: tic-tac-toe
+  - url: "cv-viz.hrmyd.me/*"
+    service: streamlit-cv
