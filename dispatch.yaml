@@ -1,5 +1,3 @@
 dispatch:
-  - url: "tic-tac-toe.hrmyd.me/*"
-    service: tic-tac-toe
   - url: "annotate.hrmyd.me/*"
     service: streamlit-cv

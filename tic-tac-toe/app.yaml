@@ -1,7 +1,0 @@
-runtime: custom
-env: flex
-service: tic-tac-toe
-# entrypoint: 
-
-env_variables:
-    BUCKET_NAME: "qagent-data"
